@@ -12,7 +12,7 @@ a HTML table is build
 
 All features implemented and working
 
-![](version_preview.gif)
+![](x_4github/version_preview.gif)
 
 ### Features
 
@@ -26,4 +26,5 @@ All features implemented and working
 ### What I learned
 
 - Object constructor
-- Build HTML table with plain
+- Build HTML
+- Working with array and local storage
