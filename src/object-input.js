@@ -34,6 +34,7 @@ var submitInformation = function () {
   document.getElementById('nameInput').focus()
   document.getElementById('nameInput').value = ''
   document.getElementById('ageInput').value = ''
+  tableBuildFunc()
 }
 
 btnAdd.addEventListener('click', submitInformation)
