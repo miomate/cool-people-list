@@ -1,18 +1,18 @@
 # CoolPeopleList, safe input as object, build Table ![badge]
 
-<img src="x_4github/cool people list.png" align="right"
+<img src="xgithub/cool people list.png" align="right"
      title="js crud table" width="163" height="178">
 
 App will safes value of input field as object in array. Based on content of array
-a HTML table is build
+a HTML table is build.
 
 [badge]: https://img.shields.io/badge/status-stable-green.svg
 
 ### Project completed
 
-All features implemented and working
+All features implemented and working.
 
-![](x_4github/version_preview.gif)
+![](xgithub/cool-people.gif)
 
 ### Features
 
@@ -26,5 +26,5 @@ All features implemented and working
 ### What I learned
 
 - Object constructor
-- Build HTML
-- Working with array and local storage
+- Build HTML table
+- Working with local storage
